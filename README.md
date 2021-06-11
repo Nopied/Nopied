@@ -1,4 +1,4 @@
-### Hi there 👋
+### 여기에 뭐 적지?
 
 <!--
 **Nopied/Nopied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
