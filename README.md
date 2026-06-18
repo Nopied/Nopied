@@ -1,3 +1,2 @@
-### 여기에 뭐 적지?
-
-Yooo!
+### Hi! 
+I still have no idea what to say here! Good to see you anyway!
